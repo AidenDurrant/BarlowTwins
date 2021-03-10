@@ -1,0 +1,7 @@
+lightning_logs/*
+data/*
+src/lightning_logs/*
+src/__pycache__/*
+tb_logs/*
+checkpoints/*
+log_files.txt
